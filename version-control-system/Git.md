@@ -41,7 +41,7 @@ Use it that something you want to hide. more info in man pages. It can not apply
 ### relation to git reset
 
 working directory | index | repository
-----|----|----
+:----:|:----:|:----:
 working tree | staging area | history
 working copy | cache | tree
   |  |git reset --soft
