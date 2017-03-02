@@ -16,20 +16,20 @@ Let's assume. *Power Computer*( 1pc + 25 GPU ) can guess 350 Billion / sec.
 |4.|Two Factor Authentication| V | X |
 |5.|Biometric Authentication| O | O |
 
-	1. PIN (4 numbers)  
-		No security.
+ 1. PIN (4 numbers)  
+  No security.
 
-	2. Alpha (assume 8-digits)  
-		52^8 = 53,000 B (The *Power Computer* can break in 151 sec.)
+ 2. Alpha (assume 8-digits)  
+  52^8 = 53,000 B (The *Power Computer* can break in 151 sec.)
 
-	3. Alpha + Num + Special Char (assume 8-digits)  
-		62^8 = 218.000 B (The *Power Computer* can break in 600 sec.) And there is a pattern.  
+ 3. Alpha + Num + Special Char (assume 8-digits)  
+  62^8 = 218.000 B (The *Power Computer* can break in 600 sec.) And there is a pattern.  
 
-	4. 2FA  
-		If you are a target, it is not safe.
+ 4. 2FA  
+  If you are a target, it is not safe.
 
-	5. BIO  
-		Very Secure. **BUT**, If (fingerprint, Iris) scanned and stored data is not stored properly, maybe stolen. Once your info is stolen, you can not use it again. **because it can not be reset.**
+ 5. BIO  
+  Very Secure. **BUT**, If (fingerprint, Iris) scanned and stored data is not stored properly, maybe stolen. Once your info is stolen, you can not use it again. **because it can not be reset.**
 
 Then, What is a secure password? Here is a simple way.
 
